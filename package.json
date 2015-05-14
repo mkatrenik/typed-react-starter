@@ -1,0 +1,17 @@
+{
+  "name": "typed-react",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack-dev-server --devtool eval --progress --colors --content-base build"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "awesome-typescript-loader": "^0.3.0-rc.2",
+    "react": "^0.13.2",
+    "webpack": "^1.8.11",
+    "webpack-dev-server": "^1.8.2"
+  }
+}
